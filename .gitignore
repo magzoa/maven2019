@@ -172,9 +172,3 @@ hs_err_pid*
 node_modules/
 
 bower_components/
-
-src/main/webapp/js/*.js
-
-js/
-src/main/webapp/js/value/configValue.js
-
