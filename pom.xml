@@ -122,7 +122,7 @@
  	 	<dependency> 
  	 	 	<groupId>org.postgresql</groupId> 
  	 	 	<artifactId>postgresql</artifactId> 
- 	 	 	<version>9.4-1201-jdbc4</version>  	 	</dependency> 
+ 	 	 	<version>42.3.7</version>  	 	</dependency> 
  			
  
  				<!-- Conversion a JSON --> 
